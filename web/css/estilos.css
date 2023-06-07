@@ -1,0 +1,14 @@
+table{
+    border: 1px solid crimson;
+}
+
+.uno td{
+    background: aqua;
+}
+
+.dos td{
+    background: yellow;
+}
+.tres td{
+    background: violet;
+}
